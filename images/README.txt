@@ -1,5 +1,8 @@
 Images des produits Lokalii (dossier "images").
 
+Logo :
+- logo.pdf — Logo de l'entreprise (navbar et footer). Pour un affichage optimal dans tous les navigateurs, vous pouvez exporter la première page en PNG (hauteur ~88px pour navbar, ~96px pour footer) et l'enregistrer sous le nom logo.png : elle sera utilisée automatiquement si vous ajoutez <img src="images/logo.png"> en premier dans les blocs .navbar__logo et .footer__logo.
+
 Produits (déjà présents) :
 - escargots.jpg — Escargot des jardins (Wikimedia Commons, CC BY 4.0)
 - volailles.jpg — Chicken female (Wikimedia Commons)
